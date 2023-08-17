@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/frkwwb8dtdolhi1u?svg=true)](https://ci.appveyor.com/project/DimkaIscariah/allure-fbyxb)
